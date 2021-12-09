@@ -1,7 +1,153 @@
-html, body {
-  margin: 0;
-  padding: 0;
+body {
+  background-image: url(http://www.worldeasyguides.com/wp-content/uploads/2014/02/Map-of-Casablanca.jpg);
+  background-size: cover;
+  width:800px;
+  height: 565px;
 }
-canvas {
-  display: block;
+.homebutton{
+  color:saddlebrown;
+  font-size: 45px;
+  font-weight: bolder;
+  font-family: 'Bebas Neue',cursive;
+  position: relative;
+  top: 0px;
+  left: 10px;
+  margin-top: 0px;
+}
+#title2 {
+  color: black;
+  font-size: 30px;
+  font-weight: bolder;
+  font-family: 'Meow Script', cursive;
+  transform: rotate(-18deg);
+  position: absolute;
+  top:10px;
+  left: 200px;
+  margin-top: : 10px;
+}
+.button{
+  margin-left: : 45%
+}
+.buttond{
+  margin-left:   100px;
+}
+#pic1{
+  width: 700px;
+  height: 500px;
+
+
+
+}
+.bigbox{
+  background-color: CornSilk;
+  background-size: contain;
+  width: 700px;
+  height: 400px;
+  padding-bottom: 150px;
+  padding-top: 80px;
+  margin: 100px;
+
+
+}
+#p1{
+  position: absolute;
+  top: 120px;
+  color: sienna;
+  font-size: 60px;
+  font-weight: bolder;
+
+}
+#info{
+
+  color: black;
+}
+#titleinfo{
+  font-size: 30px;
+  font-weight: bold;
+  color: saddleBrown;
+}
+.infobox{
+  background-color: Sandybrown;
+  background-position: right;
+  position: absolute;
+  top: 80px;
+  left: : 500px;
+  width: 240px;
+  height: 440px;
+  margin-top: 205px;
+  margin-left: 700px;
+}
+.removebutton{
+  color: lightgray;
+  font-size: 30px;
+  position: absolute;
+  top: 170px;
+  left: 777px;
+
+}
+#openbutton{
+width: 70px;
+height: 90px;
+position: absolute;
+top: 30%;
+left: 30%;
+background:url(https://media.gettyimages.com/vectors/hassan-ii-mosque-vector-id1185677978?s=612x612);
+background-size: contain;
+z-index: 0;
+}
+#picplay{
+  width: 30px;
+  height: 30px;
+}
+.musicpart{
+  float: right;
+  margin-right: 0px;;
+  margin-bottom: : 0px;
+  position: absolute;
+  bottom: 10px;
+  right:40px;
+  display: flex;
+  align-items: center;
+}
+#opendtbutton{
+  width: 70px;
+  height: 90px;
+  position: absolute;
+  top: 50%;
+  left:50%;
+  background:url(https://i.pinimg.com/564x/92/4b/cf/924bcf53ea10dcf84fe3508a57bbc6ad.jpg);
+  background-size: contain;
+}
+#dtpic1{
+  width: 600px;
+  height: 700px;
+  margin-top: 110px;
+
+
+}
+#dtbox{
+  background-color: dimGrey;
+  background-size: contain;
+  width: 700px;
+  height: 800px;
+  padding-top:   180px;
+  padding-bottom: 80px;
+  margin: 100px;
+
+}
+#p2{
+  position: absolute;
+  top: 120px;
+  color: sienna;
+  font-size: 60px;
+  font-weight: bolder;
+  margin: 100px;
+
+}
+.removedtbutton{
+  color: lightgray;
+  font-size: 30px;
+  position: absolute;
+  top: 187px;
+  left: 677px;
 }
