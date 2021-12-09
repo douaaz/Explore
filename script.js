@@ -54,6 +54,6 @@ icon.onclick = function() {
     icon.src = "https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX26341460.jpg"
   } else{
     song.pause();
-    icon.src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgAY1K1682_xtGI7di8Jfn5t78DrfTCCPIXw&usqp=CAU"
+    icon.src="https://ak.picdn.net/shutterstock/videos/1022031049/thumb/1.jpg"
   }
 }
